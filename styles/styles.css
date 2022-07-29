@@ -1,6 +1,11 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.responsive-carousel{
+    height: 80vh;
+    object-fit: cover;
+}
+
 .fa-star{
     color: gold;
 }
